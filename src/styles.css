@@ -43,6 +43,8 @@ body, html {
 	text-wrap: balance;
 	text-align: center;
 
+	box-shadow: 1px 25px 25px hsla(0, 0%, 0%, 0.1);
+
   @media (width >= 375px) {
 		 padding-block-end: var(--spacing-2);
 		 height: 500px;
